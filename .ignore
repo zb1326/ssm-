@@ -1,0 +1,12 @@
+bin/
+.project
+target/
+.settings/
+.classpath
+.iml
+.idea/
+/*.iml
+/atpcmd-web/*.iml
+/atpcmd-client/*.iml
+/atpcmd-biz/*.iml
+/deploy/*.iml
